@@ -9,5 +9,4 @@
 
 - ⚡ Fun fact: Like fingerprints, everyone's tongue print is different.
 
-
-[![Sangay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangay-yonten&theme=vue&count_private=true&show_icons=true)]
+[![Sangay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangay-yonten&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
