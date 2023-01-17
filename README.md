@@ -9,4 +9,4 @@
 
 ---
 
-| ![Sangay's GitHub stats](https://github-readme-sangay-yonten.vercel.app/api?username=sangay-yonten&theme=vue&show_icons=true&count_private=true) | ![Sangay's Top Languages](https://github-readme-sangay-yonten.vercel.app/api/top-langs/?username=sangay-yonten&layout=compact) |
+![Sangay's GitHub stats](https://github-readme-sangay-yonten.vercel.app/api?username=sangay-yonten&theme=vue&show_icons=true&count_private=true) ![Sangay's Top Languages](https://github-readme-sangay-yonten.vercel.app/api/top-langs/?username=sangay-yonten&layout=compact)
