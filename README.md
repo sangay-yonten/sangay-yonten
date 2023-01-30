@@ -1,5 +1,3 @@
-## Hey there, 👋 I'm Sangay Yonten from Bhutan
-
 ## 📖 About Me
 - 👋 Hey visitor, I’m Sangay Yonten from Bhutan, a.k.a. Cortez (with the 'z')
 - 🖥 I'm a Junior Software Developer
