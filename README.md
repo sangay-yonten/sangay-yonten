@@ -1,9 +1,9 @@
 ## 📖 About Me
 - 👋 Hey visitor, I’m Sangay Yonten from Bhutan, a.k.a. Cortez (with the 'z')
 - 🖥 I'm a Junior Software Developer
-- 🎓 Bachelors of Engineering in Information Technology, Royal University of Bhutan; Class of 2021
+- 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
 - ⚡ Wanna hear a fun fact?
-&nbsp; &nbsp; ***Like fingerprints, everyone's tongue print is different.***
+<br />&nbsp;&nbsp;&nbsp; - ***Like fingerprints, everyone's tongue print is different.***
 <hr />
 
 ## 🔧 Languages & Technologies 
@@ -14,13 +14,13 @@ The following are the list of some major frameworks/libraries that I am and had 
   &ensp;
   <a href="https://www.javascript.com/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
   &ensp;
-  <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+  <a href="https://www.typescriptlang.org/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
   &ensp;
-  <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+  <a href="https://devdocs.io/c/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
   &ensp;
-  <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+  <a href="https://html.spec.whatwg.org/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
   &ensp;
-  <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
+  <a href="https://www.css3.com/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
 </div>
 
 <div align="center">
@@ -28,12 +28,12 @@ The following are the list of some major frameworks/libraries that I am and had 
   &ensp;
   <a href="https://reactjs.org/"><img style="width:48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   &ensp;
-  <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-  <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a>
+  <a href="https://www.tensorflow.org/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+  <a href="https://pytorch.org/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a>
   &ensp;
-  <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
+  <a href="https://mui.com/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
   &ensp;
-  <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></a>
+  <a href="https://git-scm.com/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></a>
   &ensp;
   <a href="https://developer.android.com/studio"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
   &ensp;
@@ -52,12 +52,12 @@ The following are the list of some major frameworks/libraries that I am and had 
 ## 🌏 Social
 <div align="center">
   <div>
-    📞 <strong>Contact:</strong> 🇧🇹 +975 17468353
+    📞 <strong>Personal Contact:</strong> 🇧🇹 +975 17468353
   </div>
   <br />
   <div>
-    <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" /></a>
+    <a href="https://www.facebook.com/aka.cortez/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" /></a>
     &ensp;
-    <a><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.linkedin.com/in/sangay-yonten-30831a1b3/"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   </div>
 </div>
