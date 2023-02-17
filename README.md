@@ -43,9 +43,9 @@ The following are the list of some major frameworks/libraries that I am and had 
 
 ## 🚀 My GitHub Statistics (a.s.n.)
 <div align="center">
-  <a href="https://github.com/sangay-yonten/sangay-yonten" target="_blank"><img align="center" src="https://github-readme-sangay-yonten.vercel.app/api/top-langs/?username=sangay-yonten&langs_count=3)" /></a>
+  <a href="https://github.com/sangay-yonten/sangay-yonten" target="_blank"><img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api/top-langs/?username=sangay-yonten&langs_count=3)" /></a>
   &ensp;
-  <a href="https://github.com/sangay-yonten/sangay-yonten" target="_blank"><img align="center" src="https://github-readme-sangay-yonten.vercel.app/api/?username=sangay-yonten&theme=vue&show_icons=true&count_private=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" alt="Sangay's GitHub Stats" /></a>
+  <a href="https://github.com/sangay-yonten/sangay-yonten" target="_blank"><img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api/?username=sangay-yonten&theme=vue&show_icons=true&count_private=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" alt="Sangay's GitHub Stats" /></a>
 </div>
 <hr />
 
