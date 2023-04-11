@@ -53,7 +53,7 @@ The following are the list of some major frameworks/libraries that I am and had 
 ## 🚀 My GitHub Statistics (a.s.n.)
 <div align="center">
   <a href="https://github.com/sangay-yonten" target="_blank">
-    <img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api?username=sangay-yonten&theme=vue&count_private=true&show_icons=true&hide_border=false" /></a>
+    <img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api?username=sangay-yonten&theme=vue&show_icons=true&hide_border=false&count_private=true" /></a>
   &ensp;
   <a href="https://github.com/sangay-yonten" target="_blank">
     <img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api/top-langs/?username=sangay-yonten&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
