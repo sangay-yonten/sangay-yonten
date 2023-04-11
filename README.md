@@ -1,9 +1,18 @@
+<div align="center">
+  <img src="assets/image/header.png" width="90%"/>
+</div>
+
 ## 📖 About Me
 - 👋 Hey visitor, I’m Sangay Yonten from Bhutan, a.k.a. Cortez (with the 'z')
 - 🖥 I'm a Junior Software Developer
 - 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
 - ⚡ Wanna hear a fun fact?
 <br />&nbsp;&nbsp;&nbsp; - ***Like fingerprints, everyone's tongue print is different.***
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
+</div>
 <hr />
 
 ## 🔧 Languages & Technologies 
@@ -43,9 +52,11 @@ The following are the list of some major frameworks/libraries that I am and had 
 
 ## 🚀 My GitHub Statistics (a.s.n.)
 <div align="center">
-  <a href="https://github.com/sangay-yonten/sangay-yonten" target="_blank"><img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api/top-langs/?username=sangay-yonten&langs_count=3)" /></a>
+  <a href="https://github.com/sangay-yonten" target="_blank">
+    <img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api?username=sangay-yonten&theme=vue&count_private=true&show_icons=true&hide_border=false" /></a>
   &ensp;
-  <a href="https://github.com/sangay-yonten/sangay-yonten" target="_blank"><img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api/?username=sangay-yonten&theme=vue&show_icons=true&count_private=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" alt="Sangay's GitHub Stats" /></a>
+  <a href="https://github.com/sangay-yonten" target="_blank">
+    <img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api/top-langs/?username=sangay-yonten&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 </div>
 <hr />
 
