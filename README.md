@@ -7,7 +7,7 @@
 - 🖥 I'm a Junior Software Developer
 - 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
 - ⚡ Wanna hear a fun fact?
-<br />&nbsp;&nbsp;&nbsp; - ***Like fingerprints, everyone's tongue print is different.***
+<br /><br />&nbsp;- ***Like fingerprints, everyone's tongue print is different.***
 
 ### ✍️ Random Dev Quote
 <div align="center">
@@ -50,7 +50,7 @@ The following are the list of some major frameworks/libraries that I am and had 
 </div>
 <hr />
 
-## 🚀 My GitHub Statistics (a.s.n.)
+## 🚀 My GitHub Statistics
 <div align="center">
   <a href="https://github.com/sangay-yonten" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangay-yonten&show_icons=true&theme=transparent&count_private=false" /></a>
@@ -60,7 +60,7 @@ The following are the list of some major frameworks/libraries that I am and had 
 </div>
 <hr />
 
-## 🌏 Social
+## 🌏 Social Link
 <div align="center">
   <div>
     📞 <strong>Personal Contact:</strong> 🇧🇹 +975 17468353
