@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 - 👋 Hey visitor, I’m Sangay Yonten from Bhutan, a.k.a. Cortez (with the 'z')
-- 🖥 I'm a Junior Software Developer
+- 🖥 I'm a Software Developer
 - 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
 - ⚡ Wanna hear a fun fact?
 <br /><br />&nbsp;- ***Like fingerprints, everyone's tongue print is different.***
