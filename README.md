@@ -15,7 +15,7 @@
 </div>
 <hr />
 
-## 🔧 Languages & Technologies 
+## 🔧 Tech Stack(s)
 The following are the list of some major frameworks/libraries that I am and had a touch-on, and some of these techs includes my never-ending milestones.
 <br />
 <div align="center" style="margin-bottom: 12px;">
@@ -60,7 +60,7 @@ The following are the list of some major frameworks/libraries that I am and had 
 </div>
 <hr />
 
-## 🌏 Social Link
+## 🌏 Social Links
 <div align="center">
   <div>
     📞 <strong>Personal Contact:</strong> 🇧🇹 +975 17468353
