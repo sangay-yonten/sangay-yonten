@@ -4,8 +4,9 @@
 
 ## 📖 About Me
 - 👋 Hey visitor, I’m Sangay Yonten from Bhutan, a.k.a. Cortez (with the 'z')
-- 🖥 I'm a Software Developer
+- 🖥 I'm a Software Engineer
 - 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
+
 - ⚡ Wanna hear a fun fact?
 <br /><br />&nbsp;- ***Like fingerprints, everyone's tongue print is different.***
 
@@ -50,7 +51,7 @@ The following are the list of some major frameworks/libraries that I am and had 
 </div>
 <hr />
 
-## 🚀 My GitHub Statistics
+## 🚀 My GitHub Stats
 <div align="center">
   <a href="https://github.com/sangay-yonten" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangay-yonten&show_icons=true&theme=transparent&count_private=false" /></a>
