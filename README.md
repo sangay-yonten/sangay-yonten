@@ -7,9 +7,8 @@
 - 🖥 I'm a Software Engineer
 - 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
 
-- ⚡ Wanna hear a fun fact?
-<br />&nbsp;
-  - ***Like fingerprints, everyone's tongue print is different.***
+### ⚡ Wanna hear a fun fact?
+- _Like fingerprints, everyone's tongue print is different._
 
 ### ✍️ Random Dev Quote
 <div align="center">
