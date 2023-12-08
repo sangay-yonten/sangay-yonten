@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 - 👋 Hey visitor, I’m Sangay Yonten from Bhutan, a.k.a. Cortez
-- 🖥 I am a Software Engineer
+- 🖥 I am currently working as a Software Engineer
 - 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
 
 ### ⚡ Wanna hear a fun fact?
