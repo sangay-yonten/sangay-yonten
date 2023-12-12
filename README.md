@@ -3,8 +3,9 @@
 </div>
 
 ## 📖 About Me
-- 👋 Hey visitor, I’m Sangay Yonten from Bhutan, a.k.a. Cortez
-- 🖥 I am currently working as a Software Engineer
+- 👋 Hey visitor, I’m Sangay Yonten, a.k.a. Cortez
+- 🇧🇹 All the way from Bhutan (Land of the Thunder Dragon)
+- 🖥 I am a Software Engineer
 - 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
 
 ### ⚡ Wanna hear a fun fact?
