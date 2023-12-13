@@ -3,10 +3,10 @@
 </div>
 
 ## 📖 About Me
-- 👋 Hey visitor, I’m Sangay Yonten, a.k.a. Cortez
+- 👋 Hey visitor, I’m **Sangay Yonten**, a.k.a. _**Cortez**_
 - 🇧🇹 All the way from Bhutan (Land of the Thunder Dragon)
-- 🖥 I am a Software Engineer
-- 🎓 Gradudated with Bachelors of Engineering in Information Technology, Royal University of Bhutan [Class of 2021]
+- 🖥 I am a Software Developer
+- 🎓 Gradudated with Bachelors of Engineering in Information Technology, College of Science and Technology, RUB [Class of 2021]
 
 ### ⚡ Wanna hear a fun fact?
 - _Like fingerprints, everyone's tongue print is different._
