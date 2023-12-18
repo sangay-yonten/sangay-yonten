@@ -3,10 +3,13 @@
 </div>
 
 ## 📖 About Me
-- 👋 Hey visitor, I’m **Sangay Yonten**, a.k.a. _**Cortez**_
-- 🇧🇹 All the way from Bhutan (Land of the Thunder Dragon)
-- 🖥 I am a Software Developer
-- 🎓 Gradudated with Bachelors of Engineering in Information Technology, College of Science and Technology, RUB [Class of 2021]
+- 👋 Greetings! I'm **Sangay Yonten**, known as _**Cortez**_
+- 🖥 I'm a passionate **Software Developer** from the enchanting Land of the Thunder Dragon, Bhutan. 🇧🇹
+- 🎓 Holding a Bachelor's degree in Information Technology (B.Eng. I.T), from the College of Science and Technology, RUB [Class of 2021].
+
+<div align="center">
+  --- <b><i>Let's craft elegant code and embark on a journey of innovation!</i></b> 🚀---
+</div>
 
 ### ⚡ Wanna hear a fun fact?
 - _Like fingerprints, everyone's tongue print is different._
@@ -18,7 +21,7 @@
 <hr />
 
 ## 🔧 Tech Stack(s)
-The following are the list of some major frameworks/libraries that I am and had a touch-on, and some of these techs includes my never-ending milestones.
+Here is a list of prominent frameworks and libraries with which I am acquainted and have had some experience. Some of these technologies represent significant milestones in my ongoing journey.
 <br />
 <div align="center" style="margin-bottom: 12px;">
   <a href="https://www.python.org/" target="_blank"><img style="height: 48px; width:48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /></a>
