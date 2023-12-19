@@ -64,6 +64,7 @@ Here is a list of prominent frameworks and libraries with which I am acquainted 
 </div>
 
 ## 🌏 Social Links
+Let's connect on other platforms too! Feel free to reach out, and let's share our knowledge and experiences. 🌐
 <div align="center">
   <div>
     📞 <strong>Personal Contact:</strong> 🇧🇹 +975 17468353
