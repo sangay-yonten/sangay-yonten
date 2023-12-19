@@ -10,6 +10,7 @@
 <div align="center">
   --- <b><i>Let's craft elegant code and embark on a journey of innovation!</i></b> 🚀---
 </div>
+<hr />
 
 ### ⚡ Wanna hear a fun fact?
 - _Like fingerprints, everyone's tongue print is different._
@@ -18,7 +19,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
 </div>
-<hr />
 
 ## 🔧 Tech Stack(s)
 Here is a list of prominent frameworks and libraries with which I am acquainted and have had some experience. Some of these technologies represent significant milestones in my ongoing journey.
@@ -53,7 +53,6 @@ Here is a list of prominent frameworks and libraries with which I am acquainted 
   &ensp;
   <a href="https://developer.apple.com/xcode/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" /></a>
 </div>
-<hr />
 
 ## 🚀 My GitHub Stats
 <div align="center">
@@ -63,7 +62,6 @@ Here is a list of prominent frameworks and libraries with which I am acquainted 
   <a href="https://github.com/sangay-yonten" target="_blank">
     <img align="center" src="https://github-readme-stats-sangay-yonten.vercel.app/api/top-langs/?username=sangay-yonten&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 </div>
-<hr />
 
 ## 🌏 Social Links
 <div align="center">
