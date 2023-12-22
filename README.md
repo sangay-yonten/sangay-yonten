@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 - 👋 Greetings! I'm **Sangay Yonten**, known as _**Cortez**_
-- 🖥 I'm a passionate **Software Developer** from the enchanting Land of the Thunder Dragon, Bhutan. 🇧🇹
+- 🖥 I'm a passionate **Software Developer** from the enchanting **Land of the Thunder Dragon, Bhutan.** 🇧🇹
 - 🎓 Holding a Bachelor's degree in Information Technology (B.Eng. I.T), from the College of Science and Technology, RUB [Class of 2021].
 
 <div align="center">
@@ -20,7 +20,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
 </div>
 
-## 🔧 Tech Stack(s)
+## 🔧 Technology Stack(s)
 Here is a list of prominent frameworks and libraries with which I am acquainted and have had some experience. Some of these technologies represent significant milestones in my ongoing journey.
 <br />
 <div align="center" style="margin-bottom: 12px;">
@@ -54,7 +54,7 @@ Here is a list of prominent frameworks and libraries with which I am acquainted 
   <a href="https://developer.apple.com/xcode/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" /></a>
 </div>
 
-## 🚀 My GitHub Stats
+## 🚀 My GitHub Statistics
 <div align="center">
   <a href="https://github.com/sangay-yonten" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangay-yonten&show_icons=true&theme=transparent&count_private=false" /></a>
@@ -67,7 +67,7 @@ Here is a list of prominent frameworks and libraries with which I am acquainted 
 Let's connect on other platforms too! Feel free to reach out, and let's share our knowledge and experiences. 🌐
 <div align="center">
   <div>
-    📞 <strong>Personal Contact:</strong> 🇧🇹 +975 17468353
+    📞 <strong>Personal Contact No.:</strong> 🇧🇹 <i>+975 17468353</i>
   </div>
   <br />
   <div>
