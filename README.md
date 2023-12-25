@@ -21,7 +21,9 @@
 </div>
 
 ## 🔧 Technology Stack(s)
-Here is a list of prominent frameworks and libraries with which I am acquainted and have had some experience. Some of these technologies represent significant milestones in my ongoing journey.
+<div align="center">
+  Here is a list of prominent frameworks and libraries with which I am acquainted and have had some experience. Some of these technologies represent significant milestones in my ongoing journey.
+</div>
 <br />
 <div align="center" style="margin-bottom: 12px;">
   <a href="https://www.python.org/" target="_blank"><img style="height: 48px; width:48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /></a>
@@ -64,10 +66,12 @@ Here is a list of prominent frameworks and libraries with which I am acquainted 
 </div>
 
 ## 🌏 Social Links
-Let's connect on other platforms too! Feel free to reach out, and let's share our knowledge and experiences. 🌐
+<div align="center">
+  Let's connect on other platforms too! Feel free to reach out, and let's share our knowledge and experiences. 🌐
+</div>
 <div align="center">
   <div>
-    📞 <strong>Personal Contact No.:</strong> 🇧🇹 <i>+975 17468353</i>
+    📞 <strong>Personal Contact:</strong> 🇧🇹 <i>+975 17468353</i>
   </div>
   <br />
   <div>
