@@ -8,7 +8,7 @@
 - 🎓 Holding a Bachelor's degree in Information Technology (B.Eng. I.T), from the College of Science and Technology, RUB [Class of 2021].
 
 <div align="center">
-  ---  <b><i>Let's craft elegant code and embark on a journey of innovation!</i></b>  🚀---
+  <b>---  <i>Let's craft elegant code and embark on a journey of innovation!</i>  🚀---</b>
 </div>
 <hr />
 
