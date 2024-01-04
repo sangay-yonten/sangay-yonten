@@ -3,9 +3,9 @@
 </div>
 
 ## 📖 About Me
-- 👋 Greetings! I'm **Sangay Yonten**, known as _**Cortez**_
-- 🖥 I'm a passionate **Software Developer** from the enchanting **Land of the Thunder Dragon, Bhutan.** 🇧🇹
-- 🎓 Holding a Bachelor's degree in Information Technology (B.Eng. I.T), from the College of Science and Technology, RUB [Class of 2021].
+- 👋 Yo! **Sangay Yonten** here, a.k.a. _**Cortez**_ - A Bhutanese IT wizard by day, software alchemist by night.
+- 🖥 A passionate **Software Developer** weaving magic with code from the heart of **Bhutan** 🇧🇹✨
+- 📕 I hold a Bachelor's degree in Information Technology (B.Eng. I.T).
 
 <div align="center">
   <b>---  <i>Let's craft elegant code and embark on a journey of innovation!</i>  🚀---</b>
