@@ -5,7 +5,8 @@
 ## 📖 About Me
 - 👋 Yo! **Sangay Yonten** here, a.k.a. _**Cortez**_ - A Bhutanese IT wizard by day, software alchemist by night.
 - 🖥 A passionate **Software Developer** weaving magic with code from the heart of **Bhutan** 🇧🇹✨
-- 📕 I hold a Bachelor's degree in Information Technology (B.Eng. I.T).
+- 📕 I hold a Bachelor's degree in Information Technology (**B.Eng. I.T**).
+- 🎓 A proud graduate of the **College of Science and Technology**, Royal University of Bhutan (Class of 2021).
 
 <div align="center">
   <b>---  <i>Let's craft elegant code and embark on a journey of innovation!</i>  🚀---</b>
