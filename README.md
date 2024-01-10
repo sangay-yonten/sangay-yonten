@@ -72,7 +72,7 @@
 </div>
 <div align="center">
   <div>
-    📞 <strong>Personal Contact:</strong> 🇧🇹 <i>+975 17468353</i>
+    📞 <strong>Personal Contact:</strong> 🇧🇹 <i>+975 17 46 83 53</i>
   </div>
   <br />
   <div>
