@@ -3,7 +3,7 @@
 </div>
 
 ## 📖 About Me
-- 👋 Yo! **Sangay Yonten** here, a.k.a. **Cortez** - _A Bhutanese IT Wizard by day, Software Alchemist by night._
+- 👋 Greetings! **Sangay Yonten** here, a.k.a. **Cortez** - _A Bhutanese IT Wizard by day, Software Alchemist by night._
 - 🖥 A passionate **Software Developer** weaving magic with code from the heart of **Bhutan** 🇧🇹✨
 - 📕 I hold a Bachelor's degree in Information Technology (**B.Eng. I.T**).
 - 🎓 A proud graduate of the **College of Science and Technology**, Royal University of Bhutan (Class of 2021).
