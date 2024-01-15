@@ -11,7 +11,6 @@
 <div align="center">
   <b>---  <i>Let's craft elegant code and embark on a journey of innovation!</i>  🚀---</b>
 </div>
-<hr />
 
 ### ⚡ Wanna hear a fun fact?
 - _Like fingerprints, everyone's tongue print is different._
