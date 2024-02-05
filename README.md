@@ -20,8 +20,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
 </div>
 
----
-
 ## 🔧 Technology Stack(s)
 <div align="center">
   Here is a list of prominent frameworks and libraries with which I am acquainted and have had some experience. Some of these technologies represent significant milestones in my ongoing journey.
