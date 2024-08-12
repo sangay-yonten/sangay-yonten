@@ -26,32 +26,33 @@
 </div>
 <br />
 <div align="center" style="margin-bottom: 12px;">
-  <a href="https://www.python.org/" target="_blank"><img style="height: 48px; width:48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /></a>
+  <a href="https://www.python.org/" target="_blank"><img style="height: 48px; width:48px;" src="https://skillicons.dev/icons?i=python&theme=light" /></a>
   &ensp;
-  <a href="https://www.javascript.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=js&theme=light" /></a>
   &ensp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=ts&theme=light" /></a>
   &ensp;
-  <a href="https://devdocs.io/c/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+  <a href="https://devdocs.io/c/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=c&theme=light" /></a>
   &ensp;
-  <a href="https://html.spec.whatwg.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=html&theme=light" /></a>
   &ensp;
-  <a href="https://www.css3.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
+  <a href="https://www.css3.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=css&theme=light" /></a>
 </div>
 
 <div align="center">
-  <a href="https://angular.io/" target="_blank"><img style="width:48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
+  <a href="https://angular.io/" target="_blank"><img style="width:48px; height: 48px;" src="https://skillicons.dev/icons?i=angular&theme=light" /></a>
   &ensp;
-  <a href="https://reactjs.org/" target="_blank"><img style="width:48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img style="width:48px; height: 48px;" src="https://skillicons.dev/icons?i=react&theme=light" /></a>
   &ensp;
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=tensorflow&theme=light" /></a>
   &ensp;
-  <a href="https://mui.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=pytorch&theme=light" /></a>
   &ensp;
-  <a href="https://git-scm.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></a>
+  <a href="https://mui.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=materialui&theme=light" /></a>
   &ensp;
-  <a href="https://developer.android.com/studio" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=git&theme=light" /></a>
+  &ensp;
+  <a href="https://developer.android.com/studio" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=androidstudio&theme=light" /></a>
   &ensp;
   <a href="https://developer.apple.com/xcode/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" /></a>
 </div>
