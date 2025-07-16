@@ -15,43 +15,6 @@
 ### ⚡ Wanna hear a fun fact?
 - _Like fingerprints, everyone's tongue print is different._
 
-## 🔧 Technology Stack(s)
-<div align="center">
-  Here is a list of prominent frameworks and libraries with which I am acquainted and have had some experience. Some of these technologies represent significant milestones in my ongoing journey.
-</div>
-<br />
-<div align="center" style="margin-bottom: 12px;">
-  <a href="https://www.python.org/" target="_blank"><img style="height: 48px; width:48px;" src="https://skillicons.dev/icons?i=python&theme=light" /></a>
-  &ensp;
-  <a href="https://www.javascript.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=js&theme=light" /></a>
-  &ensp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=ts&theme=light" /></a>
-  &ensp;
-  <a href="https://devdocs.io/c/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=c&theme=light" /></a>
-  &ensp;
-  <a href="https://html.spec.whatwg.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=html&theme=light" /></a>
-  &ensp;
-  <a href="https://www.css3.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=css&theme=light" /></a>
-</div>
-
-<div align="center">
-  <a href="https://angular.io/" target="_blank"><img style="width:48px; height: 48px;" src="https://skillicons.dev/icons?i=angular&theme=light" /></a>
-  &ensp;
-  <a href="https://reactjs.org/" target="_blank"><img style="width:48px; height: 48px;" src="https://skillicons.dev/icons?i=react&theme=light" /></a>
-  &ensp;
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=tensorflow&theme=light" /></a>
-  &ensp;
-  <a href="https://pytorch.org/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=pytorch&theme=light" /></a>
-  &ensp;
-  <a href="https://mui.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=materialui&theme=light" /></a>
-  &ensp;
-  <a href="https://git-scm.com/" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=git&theme=light" /></a>
-  &ensp;
-  <a href="https://developer.android.com/studio" target="_blank"><img style="width: 48px; height: 48px;" src="https://skillicons.dev/icons?i=androidstudio&theme=light" /></a>
-  &ensp;
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img style="width: 48px; height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" /></a>
-</div>
-
 ## 🔧 Tech Stack
 - Here is a list of prominent frameworks and libraries with which I am acquainted and have had some experience. Some of these technologies represent significant milestones in my ongoing journey.
 
